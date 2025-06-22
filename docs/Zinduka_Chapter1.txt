@@ -1,0 +1,20 @@
+KABARAK UNIVERSITY
+
+COMP 323 TEAM PROJECT
+
+SCHOOL OF SCIENCE ENGINEERING AND TECHNOLOGY
+
+DEPARTMENT OF COMPUTER SCIENCE AND IT
+
+WAKWABUBI KEZIA NEKOYE CS/MK/1379/09/23
+OTIENO RISPER AKINYI  CS/MK/0788/09
+MACHOGU MORGHAN ATANDI  CS/MK/1462/09/23
+TEAM LEADER-WAKWABUBI KEZIA NEKOYE
+
+ZINDUKA!
+
+CHAPTER 1: INTRODUCTION
+
+1.1. Study of the background
+Femicide refers to the intentional killing of women on the account of their gender ... (truncated for brevity)
+... RESTful API- We chose this API because it offers platform independence, ease of integration, scalability, security and authentication, ideal for low code and most importantly, is always up-to-date.
