@@ -70,6 +70,7 @@ zinduka_project/
 - **Wakwabubi Kezia Nekoye** – Team Leader  
 - **Otieno Risper Akinyi**  
 - **Machogu Morghan Atandi**
+- **Jane Wangoi Ng'ethe**
 
 > *COMP 323 Team Project, School of Science Engineering and Technology, Kabarak University*
 
